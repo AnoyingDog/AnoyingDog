@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to stop ricing my desktop and using Linux
 - 📫 How to reach me
     Discord: anoyingdog9720
-- 😄 Pronouns: he/him if you call me something else I WILL correct you (:
+- 😄 Pronouns: he/him you can call me whatever you want but I WILL correct you (:
 - ⚡ Fun fact: I use Neovim, Hyprland and Arch Linux btw.
 
 <!---
